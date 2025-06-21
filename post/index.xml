@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on 演示站点</title>
+        <title>Posts on AUS_ZJU</title>
         <link>https://Dragondly-Mark.github.io/AUS-ZJU/post/</link>
-        <description>Recent content in Posts on 演示站点</description>
+        <description>Recent content in Posts on AUS_ZJU</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>ZJU_AUS Team</copyright>
@@ -21,7 +21,9 @@
         <pubDate>Sat, 21 Jun 2025 17:00:31 +0800</pubDate>
         
         <guid>https://Dragondly-Mark.github.io/AUS-ZJU/p/aus/</guid>
-        <description>&lt;p&gt;###Hello world###&lt;/p&gt;
+        <description>&lt;h3 id=&#34;aus_zju&#34;&gt;AUS_ZJU
+&lt;/h3&gt;&lt;h4 id=&#34;刘津廷mark&#34;&gt;刘津廷（Mark）
+&lt;/h4&gt;&lt;p&gt;大家好，我是刘津廷，来自浙江大学竺可桢学院 &lt;strong&gt;混合班&lt;/strong&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
