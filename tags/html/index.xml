@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>AUS_ZJU</title>
-        <link>https://Dragondly-Mark.github.io/AUS-ZJU/</link>
-        <description>Recent content on AUS_ZJU</description>
+        <title>Html on AUS_ZJU</title>
+        <link>https://Dragondly-Mark.github.io/AUS-ZJU/tags/html/</link>
+        <description>Recent content in Html on AUS_ZJU</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>ZJU_AUS Team</copyright>
-        <lastBuildDate>Sat, 21 Jun 2025 17:00:31 +0800</lastBuildDate><atom:link href="https://Dragondly-Mark.github.io/AUS-ZJU/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>AUS</title>
-        <link>https://Dragondly-Mark.github.io/AUS-ZJU/p/aus/</link>
-        <pubDate>Sat, 21 Jun 2025 17:00:31 +0800</pubDate>
-        
-        <guid>https://Dragondly-Mark.github.io/AUS-ZJU/p/aus/</guid>
-        <description>&lt;h3 id=&#34;aus_zju&#34;&gt;AUS_ZJU
-&lt;/h3&gt;&lt;h4 id=&#34;刘津廷mark&#34;&gt;刘津廷（Mark）
-&lt;/h4&gt;&lt;p&gt;大家好，我是刘津廷，来自浙江大学竺可桢学院 &lt;strong&gt;混合班&lt;/strong&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://Dragondly-Mark.github.io/AUS-ZJU/tags/html/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Markdown Syntax Guide</title>
         <link>https://Dragondly-Mark.github.io/AUS-ZJU/p/markdown-syntax-guide/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
@@ -245,23 +234,6 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://Dragondly-Mark.github.io/AUS-ZJU/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Dragondly-Mark.github.io/AUS-ZJU/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;这里是浙江大学竺可桢学院AUS团队&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>https://Dragondly-Mark.github.io/AUS-ZJU/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Dragondly-Mark.github.io/AUS-ZJU/search/</guid>
-        <description></description>
         </item>
         
     </channel>
