@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>AUS_ZJU</title>
-        <link>https://Dragondly-Mark.github.io/AUS-ZJU/</link>
-        <description>Recent content on AUS_ZJU</description>
+        <title>Member on AUS_ZJU</title>
+        <link>https://Dragondly-Mark.github.io/AUS-ZJU/categories/member/</link>
+        <description>Recent content in Member on AUS_ZJU</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>ZJU_AUS Team</copyright>
-        <lastBuildDate>Sat, 21 Jun 2025 17:00:31 +0800</lastBuildDate><atom:link href="https://Dragondly-Mark.github.io/AUS-ZJU/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Jun 2025 17:00:31 +0800</lastBuildDate><atom:link href="https://Dragondly-Mark.github.io/AUS-ZJU/categories/member/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>2025 AUS-Memebers</title>
         <link>https://Dragondly-Mark.github.io/AUS-ZJU/p/2025-aus-memebers/</link>
         <pubDate>Sat, 21 Jun 2025 17:00:31 +0800</pubDate>
@@ -22,23 +22,6 @@
 &lt;/h4&gt;&lt;h5 id=&#34;h5&#34;&gt;H5
 &lt;/h5&gt;&lt;h6 id=&#34;h6&#34;&gt;H6
 &lt;/h6&gt;</description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://Dragondly-Mark.github.io/AUS-ZJU/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Dragondly-Mark.github.io/AUS-ZJU/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;这里是浙江大学竺可桢学院AUS团队&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>https://Dragondly-Mark.github.io/AUS-ZJU/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Dragondly-Mark.github.io/AUS-ZJU/search/</guid>
-        <description></description>
         </item>
         
     </channel>
