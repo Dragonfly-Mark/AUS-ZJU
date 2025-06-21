@@ -490,14 +490,6 @@ $$</description>
 </description>
         </item>
         <item>
-        <title>Search</title>
-        <link>https://Dragondly-Mark.github.io/AUS-ZJU/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://Dragondly-Mark.github.io/AUS-ZJU/search/</guid>
-        <description></description>
-        </item>
-        <item>
         <title>关于</title>
         <link>https://Dragondly-Mark.github.io/AUS-ZJU/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -505,6 +497,14 @@ $$</description>
         <guid>https://Dragondly-Mark.github.io/AUS-ZJU/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://Dragondly-Mark.github.io/AUS-ZJU/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://Dragondly-Mark.github.io/AUS-ZJU/search/</guid>
+        <description></description>
         </item>
         
     </channel>
